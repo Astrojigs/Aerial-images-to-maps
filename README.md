@@ -11,3 +11,15 @@ This thesis explores the structure of a cyclic generative adversarial system net
 - Map like representation
 
 ![example image map](https://github.com/Astrojigs/Aerial-images-to-maps/blob/main/Images/example%20image%20map%20-%20Copy.jpg)
+
+
+
+# Loss functions:
+Following loss functions are used to train the model:
+
+- Generator Loss
+- Discriminator Loss
+- Cyclic Loss
+- Identity Loss
+
+They all can be found [here]()
