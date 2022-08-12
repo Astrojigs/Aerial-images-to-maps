@@ -26,4 +26,10 @@ They all can be found [here](https://github.com/Astrojigs/Aerial-images-to-maps/
 
 # Models:
 
-Generator architectures can be found here: [link]()
+Models were trained on 128x128 pixels and 256x256 pixels.
+
+Generator architectures can be found here: [link](https://github.com/Astrojigs/Aerial-images-to-maps/blob/main/Generator_arc.py)
+
+Discriminator architectures can be found here: [link](https://github.com/Astrojigs/Aerial-images-to-maps/blob/main/Discriminator_arc.py)
+
+The plots for the models are included in the images folder.
