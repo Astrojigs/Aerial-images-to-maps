@@ -37,3 +37,6 @@ Models were trained on *128x128* pixels and *256x256* pixels.
 **Discriminator architectures** can be found here: [link](https://github.com/Astrojigs/Aerial-images-to-maps/blob/main/Discriminator_arc.py)
 
 [Model architecture plots](https://github.com/Astrojigs/Aerial-images-to-maps/tree/main/Images/architectures)
+
+
+# [Results](https://github.com/Astrojigs/Aerial-images-to-maps/tree/main/Images/example%20images) 
