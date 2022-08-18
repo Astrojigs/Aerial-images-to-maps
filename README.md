@@ -3,6 +3,9 @@
 ## Aim:
 This thesis explores the structure of a cyclic generative adversarial system network, as well as to see if the model can provide effective results when applied to test images. Throughout this section, you will find the code that was used to complete the relevant tasks.
 
+## Follow along with ![Evaluation of CycleGAN](https://github.com/Astrojigs/Aerial-images-to-maps/blob/main/Evaluation%20of%20cycle-GAN.ipynb).
+
+
 ### Example Images
 
 - Aerial image
